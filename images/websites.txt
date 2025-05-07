@@ -1,0 +1,6 @@
+https://pytorch.org/
+https://www.tensorflow.org/
+https://www.nvidia.com/download/index.aspx
+https://developer.nvidia.com/cuda-downloads
+https://developer.nvidia.com/cudnn
+https://developer.nvidia.com/nvidia-system-management-interface
